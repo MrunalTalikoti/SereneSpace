@@ -63,12 +63,12 @@ MindCare is a mental health solution that aims to provide users with easy access
 
 ### 1. Home Page
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/188285404-ea2e1cbf-7957-4e18-a792-fd115d9e3e4a.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/188285416-21085822-0b60-496c-bb79-81d0322de913.png" width="1010"> 
+<img width="2559" height="1330" alt="image" src="https://github.com/user-attachments/assets/68dee383-cd15-4b7a-b696-6a19233afa5b" />
 </pre>
 
 ### 2. About Us
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/188285848-079c575d-3428-4645-b1fa-de40e22c9c31.png" width="1010"> 
+<img width="2559" height="1334" alt="image" src="https://github.com/user-attachments/assets/f7907433-63b2-4fb2-af00-9984554190dd" />
 </pre>
 
 ### 2. Authentication
@@ -78,8 +78,7 @@ MindCare is a mental health solution that aims to provide users with easy access
 
 ### 3. Services Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/188286006-e28d3181-f849-420a-b1fc-5bca08dcc58c.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/188286020-44f2884f-dcf3-44cc-9c14-21eb3467cd07.png" width="1010"> 
-
+<img width="2556" height="1334" alt="image" src="https://github.com/user-attachments/assets/8b8111df-221d-4761-b6e8-eaa5296ddb52" />
 </pre>
 
 ### 4. Stress Analysis
@@ -114,7 +113,7 @@ MindCare is a mental health solution that aims to provide users with easy access
 
 ### 7. Contact Section & Blogs
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/188286331-1024959b-ff97-444e-84a9-37230bc7954c.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/188286361-a4c98e9b-243c-42e6-8a47-78b1d6301332.png" width="1010"> 
+<img width="2559" height="1336" alt="image" src="https://github.com/user-attachments/assets/8ed85755-f222-4658-8ea4-3d357127f75e" />
 </pre>
 
 
