@@ -2,13 +2,6 @@
          SereneSpace - Mental HealthCare Web App
 </h1>
 
-*****
-[![GitHub last commit](https://img.shields.io/github/last-commit/MrunalTalikoti/SereneSpace?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat-square)](https://github.com/MrunalTalikoti/SereneSpace)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MrunalTalikoti/SereneSpace?label=Code%20size&logo=python&logoColor=white&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/MrunalTalikoti/SereneSpace?label=Repo%20size&color=red&logo=github&logoColor=white&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/MrunalTalikoti/SereneSpace?label=Stars&logo=github&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/MrunalTalikoti/SereneSpace?label=Issues&color=yellow&logo=github&style=flat-square)
-
 
 ![image](https://user-images.githubusercontent.com/78292851/188284903-1e3ee4db-0612-4ab0-b463-b7be8c920c63.png)
 <br><br>
@@ -18,8 +11,7 @@
 ## 📊 Overview of the App
 
 **Welcome to SereneSpace. <br> SereneSpace is a web app that analyses the psychological and mental health conditions of an individual and provide solutions to the problems.
-MindCare is a mental health solution that aims to provide users with easy access to resources related to mental wellbeing.  SereneSpace will help people to identify these issues timely and take necessary steps to improve the conditions of the victims and provide care to those, who are at risk of serious mental complications. The purpose of SereneSpace is to assist its users by providing solutions to their mental health conditions without requiring professional help in most cases. We have observed that these solutions work efficiently in bettering their mental health conditions. Users can also track their habits and keep a record of how often they have been doing the same. In serious cases, users will be able to book an appointment with a psychologist for consultation and get timely help.
-**
+MindCare is a mental health solution that aims to provide users with easy access to resources related to mental wellbeing.  SereneSpace will help people to identify these issues timely and take necessary steps to improve the conditions of the victims and provide care to those, who are at risk of serious mental complications. The purpose of SereneSpace is to assist its users by providing solutions to their mental health conditions without requiring professional help in most cases. We have observed that these solutions work efficiently in bettering their mental health conditions. Users can also track their habits and keep a record of how often they have been doing the same. In serious cases, users will be able to book an appointment with a psychologist for consultation and get timely help.**
 
 
 
