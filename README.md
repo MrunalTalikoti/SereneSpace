@@ -48,7 +48,7 @@ MindCare is a mental health solution that aims to provide users with easy access
 - The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
 - See the deployed application 
 
-## Demo Video Link : 
+## Demo Video Link : https://www.loom.com/share/257af5fe4b9145de9371866b71bf64a1?sid=70c78be5-f66a-4b71-9133-7485a9539124
 
 
 ##  🔴  UI Of The Web Application
